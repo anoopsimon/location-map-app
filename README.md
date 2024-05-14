@@ -10,6 +10,7 @@ Requirements
 A modern web browser with support for the Geolocation API.
 Internet connection to load the Leaflet library and fetch map tiles and location data.
 
+App live [here](https://anoopsimon.github.io/location-map-app/)
 ![](./ss.png)
 
 ## How to Use
